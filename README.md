@@ -8,5 +8,5 @@
 
 # Parrot Client and Sock Server: Creates a server and client to send a message from the server to the client. The server sends out a simple message that is then repeated and printed to the terminal by the client. 
 
-# Anon Browser and Browser Test: Creates and tests the an anonymous browser.
+# Anon Browser and Browser Test: Creates and tests an anonymous browser.
 # File Utils: Creates a module for file reading and writing. A user can specify if they want to create a file, open a file, or write to one. Checks if the file exists, whether text to write has been provided, as well as other basic error handling. 
